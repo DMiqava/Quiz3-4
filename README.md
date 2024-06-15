@@ -37,13 +37,7 @@ The main objectives of this project are:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your_username/earthquake-data-analysis.git
-   cd earthquake-data-analysis
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
+   git clone https://github.com/Dmiqava/Quiz3-4
    ```
 
 ## Usage
@@ -52,11 +46,10 @@ The main objectives of this project are:
    - Ensure your earthquake data is in CSV format and contains columns such as Date, Time, Latitude, Longitude, Magnitude, Depth, etc.
 
 2. **Run the analysis script:**
-   - Modify the script (`analyze_earthquake_data.py`) to load your specific dataset.
    - Execute the script to perform data cleaning, EDA, and visualization tasks.
 
    ```bash
-   python analyze_earthquake_data.py
+   python main.py
    ```
 
 3. **Explore the generated plots:**
