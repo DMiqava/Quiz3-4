@@ -44,10 +44,6 @@ The main objectives of this project are:
 2. **Run the analysis script:**
    - Execute the script to perform data cleaning, EDA, and visualization tasks.
 
-   ```bash
-   python main.py
-   ```
-
 3. **Explore the generated plots:**
    - After running the script, explore the generated plots in the `output/` directory.
    - Use these visualizations to gain insights into earthquake patterns and characteristics.
